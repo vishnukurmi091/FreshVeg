@@ -9,13 +9,13 @@
 <body>
 
 
-<form action="uploadFile1" enctype="multipart/form-data" method="post">
+<form action="uploadfile1" enctype="multipart/form-data" method="post">
 
-<!-- 	<input type="text" name="imgname"/>
- -->	
- 		<input type="text" name="imgtype"/>
-		<input type="text" name="price"/>
-		<input type="file" name="file"/>
+ 	<input type="text" name="imgname" placeholder="image name"/>
+
+ 		<input type="text" name="imgtype" placeholder="image type"/>
+		<input type="text" name="price"  placeholder="image price"/>
+		<input type="file" name="file" placeholder="image file"/>
 		<input type="submit" name="Submit"/>
 	
 </form>

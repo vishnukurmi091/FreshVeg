@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
     <%@ include file ="header.jsp"%>
 
     <!-- Hero Start -->
@@ -17,7 +16,6 @@
         </div>
     </div>
     <!-- Hero End -->
-
 
     <!-- Blog Start -->
     <div class="container py-5">
