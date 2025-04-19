@@ -28,8 +28,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-1.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">Exploring the Future of Web Development</h4>
+                                <span class="text-white fw-bold">Jan 15, 2025</span>
                             </a>
                         </div>
                     </div>
@@ -37,8 +37,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-2.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">Innovative Design Strategies for 2025</h4>
+                                <span class="text-white fw-bold">Jan 12, 2025</span>
                             </a>
                         </div>
                     </div>
@@ -46,8 +46,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-3.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">The Role of AI in Modern Marketing</h4>
+                                <span class="text-white fw-bold">Jan 10, 2025</span>
                             </a>
                         </div>
                     </div>
@@ -55,8 +55,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-1.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">Optimizing Your Web Applications for Speed</h4>
+                                <span class="text-white fw-bold">Jan 08, 2025</span>
                             </a>
                         </div>
                     </div>
@@ -64,8 +64,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-2.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">SEO Trends and Best Practices for 2025</h4>
+                                <span class="text-white fw-bold">Jan 05, 2025</span>
                             </a>
                         </div>
                     </div>
@@ -73,8 +73,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-3.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">Web Accessibility: Best Practices</h4>
+                                <span class="text-white fw-bold">Jan 02, 2025</span>
                             </a>
                         </div>
                     </div>
@@ -82,8 +82,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-1.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">Enhancing UX with Micro-Interactions</h4>
+                                <span class="text-white fw-bold">Dec 29, 2024</span>
                             </a>
                         </div>
                     </div>
@@ -91,8 +91,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-2.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">How to Build Scalable Web Apps</h4>
+                                <span class="text-white fw-bold">Dec 25, 2024</span>
                             </a>
                         </div>
                     </div>
@@ -100,8 +100,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-3.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">Content Marketing for Digital Success</h4>
+                                <span class="text-white fw-bold">Dec 20, 2024</span>
                             </a>
                         </div>
                     </div>
@@ -109,8 +109,8 @@
                         <div class="blog-item position-relative overflow-hidden">
                             <img class="img-fluid" src="img/blog-1.jpg" alt="">
                             <a class="blog-overlay" href="">
-                                <h4 class="text-white">Lorem elitr magna stet eirmod labore amet</h4>
-                                <span class="text-white fw-bold">Jan 01, 2050</span>
+                                <h4 class="text-white">Understanding the Web Design Process</h4>
+                                <span class="text-white fw-bold">Dec 15, 2024</span>
                             </a>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                 <!-- Search Form Start -->
                 <div class="mb-5">
                     <div class="input-group">
-                        <input type="text" class="form-control p-3" placeholder="Keyword">
+                        <input type="text" class="form-control p-3" placeholder="Search for blogs...">
                         <button class="btn btn-primary px-4"><i class="bi bi-search"></i></button>
                     </div>
                 </div>
@@ -154,40 +154,30 @@
                     <div class="d-flex flex-column justify-content-start bg-primary p-4">
                         <a class="fs-5 fw-bold text-white mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Design</a>
                         <a class="fs-5 fw-bold text-white mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                        <a class="fs-5 fw-bold text-white mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                        <a class="fs-5 fw-bold text-white mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Keyword Research</a>
-                        <a class="fs-5 fw-bold text-white" href="#"><i class="bi bi-arrow-right me-2"></i>Email Marketing</a>
+                        <a class="fs-5 fw-bold text-white mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>SEO</a>
+                        <a class="fs-5 fw-bold text-white mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Digital Marketing</a>
+                        <a class="fs-5 fw-bold text-white" href="#"><i class="bi bi-arrow-right me-2"></i>Content Creation</a>
                     </div>
                 </div>
                 <!-- Category End -->
 
                 <!-- Recent Post Start -->
                 <div class="mb-5">
-                    <h2 class="mb-4">Recent Post</h2>
+                    <h2 class="mb-4">Recent Posts</h2>
                     <div class="bg-primary p-4">
                         <div class="d-flex overflow-hidden mb-3">
                             <img class="img-fluid flex-shrink-0" src="img/blog-1.jpg" style="width: 75px;" alt="">
-                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">Lorem ipsum dolor sit amet elit
+                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">Exploring the Future of Web Development
                             </a>
                         </div>
                         <div class="d-flex overflow-hidden mb-3">
                             <img class="img-fluid flex-shrink-0" src="img/blog-2.jpg" style="width: 75px;" alt="">
-                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">Lorem ipsum dolor sit amet elit
+                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">Innovative Design Strategies for 2025
                             </a>
                         </div>
                         <div class="d-flex overflow-hidden mb-3">
                             <img class="img-fluid flex-shrink-0" src="img/blog-3.jpg" style="width: 75px;" alt="">
-                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">Lorem ipsum dolor sit amet elit
-                            </a>
-                        </div>
-                        <div class="d-flex overflow-hidden mb-3">
-                            <img class="img-fluid flex-shrink-0" src="img/blog-1.jpg" style="width: 75px;" alt="">
-                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">Lorem ipsum dolor sit amet elit
-                            </a>
-                        </div>
-                        <div class="d-flex overflow-hidden">
-                            <img class="img-fluid flex-shrink-0" src="img/blog-2.jpg" style="width: 75px;" alt="">
-                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">Lorem ipsum dolor sit amet elit
+                            <a href="" class="d-flex align-items-center bg-white text-dark fs-5 fw-bold px-3 mb-0">The Role of AI in Modern Marketing
                             </a>
                         </div>
                     </div>
@@ -208,14 +198,7 @@
                         <a href="" class="btn btn-primary m-1">Development</a>
                         <a href="" class="btn btn-primary m-1">Marketing</a>
                         <a href="" class="btn btn-primary m-1">SEO</a>
-                        <a href="" class="btn btn-primary m-1">Writing</a>
-                        <a href="" class="btn btn-primary m-1">Consulting</a>
-                        <a href="" class="btn btn-primary m-1">Design</a>
-                        <a href="" class="btn btn-primary m-1">Development</a>
-                        <a href="" class="btn btn-primary m-1">Marketing</a>
-                        <a href="" class="btn btn-primary m-1">SEO</a>
-                        <a href="" class="btn btn-primary m-1">Writing</a>
-                        <a href="" class="btn btn-primary m-1">Consulting</a>
+                        <a href="" class="btn btn-primary m-1">Content</a>
                     </div>
                 </div>
                 <!-- Tags End -->
@@ -224,7 +207,7 @@
                 <div>
                     <h2 class="mb-4">Plain Text</h2>
                     <div class="bg-primary text-center text-white" style="padding: 30px;">
-                        <p>Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam</p>
+                        <p>In the ever-changing world of digital technology, staying ahead means continuously improving your skills, understanding emerging trends, and being adaptable to new challenges.</p>
                         <a href="" class="btn btn-secondary py-2 px-4">Read More</a>
                     </div>
                 </div>
@@ -236,7 +219,7 @@
     <!-- Blog End -->
 
 
-       <%@ include file = "footer.jsp"%>
+    <%@ include file = "footer.jsp"%>
 
 </body>
 

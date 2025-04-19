@@ -71,10 +71,7 @@
                 <a href="about" class="nav-item nav-link">About</a>
                 <a href="service" class="nav-item nav-link">Service</a>
                 <a href="product" class="nav-item nav-link">Product</a>
-                <a href="signup" class="nav-item nav-link">Signup</a>
-                <a href="login" class="nav-item nav-link">Login</a>
-                 <a href="admin/index" class="nav-item nav-link">Admin</a>
-                
+
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu m-0">
@@ -86,6 +83,10 @@
                     </div>
                 </div>
                 <a href="contact" class="nav-item nav-link">Contact</a>
+                <a href="signup" class="nav-item nav-link">Signup</a>
+                <a href="login" class="nav-item nav-link">Login</a>
+                <a href="admin/index" class="nav-item nav-link">Admin</a>
+
             </div>
         </div>
     </nav>

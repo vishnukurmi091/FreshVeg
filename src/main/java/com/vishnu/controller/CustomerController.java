@@ -39,14 +39,6 @@ public class CustomerController {
     @Autowired
     private ImageRepository imageRepository;
 
-/*
-
-    @RequestMapping("/")
-    public String index() {
-        return "index";
-    }
-
-*/
 
 
     @RequestMapping("/")
@@ -69,21 +61,23 @@ public class CustomerController {
     }
 
 
-
-    @PostMapping("/register")
-    public String register(@RequestBody Customer customer) {
-            customerService.registerCustomer(customer);
-        return "signup";
-    }
-
-
     @RequestMapping("/signup")
     public String reg1() {
         return "signup";
     }
 
+    @PostMapping("/register")
+    public String register(@ModelAttribute Customer customer) {
+            customerService.registerCustomer(customer);
+        return "login";
+    }
 
 
+    @RequestMapping("/login")
+    public String login() {
+        return "login";
+    }
+ 
 
     @PostMapping("/login")
     public String login1(@RequestParam String username,
@@ -106,61 +100,9 @@ public class CustomerController {
 
 
 
-    @RequestMapping("/login")
-    public String login() {
-        return "login";
-    }
-
-    @RequestMapping("/about")
-    public String about() {
-        return "about";
-    }
-
-    @RequestMapping("/blog")
-    public String blog() {
-        return "contact";
-    }
-
-    @RequestMapping("/feature")
-    public String feature() {
-        return "feature";
-    }
-
-    @RequestMapping("/product")
-    public String product() {
-        return "product";
-    }
-
-    @RequestMapping("/service")
-    public String service() {
-        return "service";
-    }
-
-    @RequestMapping("/team")
-    public String team() {
-        return "team";
-    }
-
-    @RequestMapping("/testimonial")
-    public String testimonial() {
-        return "testimonial";
-    }
-
-    @RequestMapping("/contact")
-    public String contact() {
-        return "contact";
-    }
-
-
-    @RequestMapping("/detail")
-    public String detail() {
-        return "detail";
-    }
-
 
 
 //    ************ IMAGE UPLOAD ****************
-
 
 
     @PostMapping("/uploadfile1")
@@ -267,5 +209,53 @@ public class CustomerController {
 
     }
 
+
+// ********** Page Controllers ***************
+
+    @RequestMapping("/about")
+    public String about() {
+        return "about";
+    }
+
+    @RequestMapping("/blog")
+    public String blog() {
+        return "contact";
+    }
+
+    @RequestMapping("/feature")
+    public String feature() {
+        return "feature";
+    }
+
+    @RequestMapping("/product")
+    public String product() {
+        return "product";
+    }
+
+    @RequestMapping("/service")
+    public String service() {
+        return "service";
+    }
+
+    @RequestMapping("/team")
+    public String team() {
+        return "team";
+    }
+
+    @RequestMapping("/testimonial")
+    public String testimonial() {
+        return "testimonial";
+    }
+
+    @RequestMapping("/contact")
+    public String contact() {
+        return "contact";
+    }
+
+
+    @RequestMapping("/detail")
+    public String detail() {
+        return "detail";
+    }
 
 }
